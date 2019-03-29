@@ -48,7 +48,13 @@ It is therefore not recommended to use this app as a reference for Vue SSR perfo
 
 **A detailed Vue SSR guide can be found [here](https://ssr.vuejs.org).**
 
-## Build Setup
+## Setup
+
+Start a ready-to-code dev env in the browser using Gitpod:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/vue-hackernews-2.0)
+
+### Local Setup
 
 **Requires Node.js 7+**
 
